@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "flutter_pagarme_create",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--dart-define",
+                "PAGARME_API_KEY=ak_test_CtCucKdaEuNrwJK2bVgYcqdFGGMe3E"
+            ]
+        },
+        {
+            "name": "flutter_pagarme_create (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}
