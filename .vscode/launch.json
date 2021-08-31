@@ -10,7 +10,7 @@
             "type": "dart",
             "args": [
                 "--dart-define",
-                "PAGARME_API_KEY=ak_test_CtCucKdaEuNrwJK2bVgYcqdFGGMe3E"
+                "PAGARME_API_KEY=SUAPIKEY"
             ]
         },
         {
